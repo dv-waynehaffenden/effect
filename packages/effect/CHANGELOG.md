@@ -1,5 +1,11 @@
 # effect
 
+## 4.0.0-beta.108
+
+### Patch Changes
+
+- [#7158](https://github.com/Effect-TS/effect/pull/7158) [`4f6d131`](https://github.com/Effect-TS/effect/commit/4f6d131e85d74ab0ec0300e52e503a5f943fc576) Thanks @k3dom! - Improve Union candidate selection: a nested union member is dispatched by the sentinels common to all its members, and candidates whose sentinel the input contradicts are excluded.
+
 ## 4.0.0-beta.107
 
 ### Patch Changes

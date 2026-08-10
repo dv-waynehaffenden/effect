@@ -1,5 +1,13 @@
 # @effect/doctest
 
+## 4.0.0-beta.108
+
+### Patch Changes
+
+- [#7151](https://github.com/Effect-TS/effect/pull/7151) [`e15fa96`](https://github.com/Effect-TS/effect/commit/e15fa96239e4a4dfbf99d975cd8700d392d42c1a) Thanks @f15u! - Support `.mdx` files
+- Updated dependencies [[`4f6d131`](https://github.com/Effect-TS/effect/commit/4f6d131e85d74ab0ec0300e52e503a5f943fc576)]:
+  - effect@4.0.0-beta.108
+
 ## 4.0.0-beta.107
 
 ### Patch Changes
